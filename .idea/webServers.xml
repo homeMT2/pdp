@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cc497486-0ce0-474e-a3cd-fefc351779f2" name="playdraftpick.com" url="http://playdraftpick.com">
+        <fileTransfer host="playdraftpick.com" port="21" password="dff0dfebdf97dfdedf8cdfe6dfc7dfdfdfe4dfe0dfcedf84" username="playdraftpick@playdraftpick.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+[08-Dec-2017 10:03:02 UTC] PHP Warning:  fopen(https://ninjaforms.com/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/aaronlindsay11/public_html/wp-content/plugins/ninja-forms/includes/Helper.php on line 261
+[08-Dec-2017 10:03:02 UTC] PHP Warning:  stream_get_meta_data() expects parameter 1 to be resource, boolean given in /home/aaronlindsay11/public_html/wp-content/plugins/ninja-forms/includes/Helper.php on line 261
+[08-Jan-2018 10:03:02 UTC] PHP Warning:  fopen(https://ninjaforms.com/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/aaronlindsay11/public_html/wp-content/plugins/ninja-forms/includes/Helper.php on line 261
+[08-Jan-2018 10:03:02 UTC] PHP Warning:  stream_get_meta_data() expects parameter 1 to be resource, boolean given in /home/aaronlindsay11/public_html/wp-content/plugins/ninja-forms/includes/Helper.php on line 261
+[08-Feb-2018 10:03:03 UTC] PHP Warning:  fopen(https://ninjaforms.com/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/aaronlindsay11/public_html/wp-content/plugins/ninja-forms/includes/Helper.php on line 261
+[08-Feb-2018 10:03:03 UTC] PHP Warning:  stream_get_meta_data() expects parameter 1 to be resource, boolean given in /home/aaronlindsay11/public_html/wp-content/plugins/ninja-forms/includes/Helper.php on line 261
+[08-Feb-2018 11:12:19 UTC] PHP Warning:  fopen(https://ninjaforms.com/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/aaronlindsay11/public_html/wp-content/plugins/ninja-forms/includes/Helper.php on line 261
+[08-Feb-2018 11:12:19 UTC] PHP Warning:  stream_get_meta_data() expects parameter 1 to be resource, boolean given in /home/aaronlindsay11/public_html/wp-content/plugins/ninja-forms/includes/Helper.php on line 261

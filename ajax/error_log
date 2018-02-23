@@ -1,0 +1,37 @@
+[10-Jan-2018 18:53:05 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND unixtime <= 
+                    GROUP BY id_wp_player' at line 5 for query 
+            SELECT id_wp_player, SUM(score) as all_score 
+                FROM wp_players_score 
+                WHERE 
+                    unixtime >=  
+                        AND unixtime <= 
+                    GROUP BY id_wp_player
+            
+[06-Feb-2018 20:30:32 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND T1.post_type = 'paypal-transaction'
+                AND (T2.meta_key = 'inco' at line 4 for query SELECT T2.meta_key AS type, T2.meta_value AS value FROM wp_posts AS T1
+                LEFT JOIN wp_postmeta AS T2 ON T1.ID = T2.post_id
+                WHERE T1.post_author =  
+                    AND T1.post_type = 'paypal-transaction'
+                AND (T2.meta_key = 'incoming' OR T2.meta_key = 'outgoing')
+         made by your_wallet
+[06-Feb-2018 20:35:29 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND T1.post_type = 'paypal-transaction'
+                AND (T2.meta_key = 'inco' at line 4 for query SELECT T2.meta_key AS type, T2.meta_value AS value FROM wp_posts AS T1
+                LEFT JOIN wp_postmeta AS T2 ON T1.ID = T2.post_id
+                WHERE T1.post_author =  
+                    AND T1.post_type = 'paypal-transaction'
+                AND (T2.meta_key = 'incoming' OR T2.meta_key = 'outgoing')
+         made by your_wallet
+[06-Feb-2018 20:38:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND T1.post_type = 'paypal-transaction'
+                AND (T2.meta_key = 'inco' at line 4 for query SELECT T2.meta_key AS type, T2.meta_value AS value FROM wp_posts AS T1
+                LEFT JOIN wp_postmeta AS T2 ON T1.ID = T2.post_id
+                WHERE T1.post_author =  
+                    AND T1.post_type = 'paypal-transaction'
+                AND (T2.meta_key = 'incoming' OR T2.meta_key = 'outgoing')
+         made by your_wallet
+[07-Feb-2018 00:12:43 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND T1.post_type = 'paypal-transaction'
+                AND (T2.meta_key = 'inco' at line 4 for query SELECT T2.meta_key AS type, T2.meta_value AS value FROM wp_posts AS T1
+                LEFT JOIN wp_postmeta AS T2 ON T1.ID = T2.post_id
+                WHERE T1.post_author =  
+                    AND T1.post_type = 'paypal-transaction'
+                AND (T2.meta_key = 'incoming' OR T2.meta_key = 'outgoing')
+         made by your_wallet
